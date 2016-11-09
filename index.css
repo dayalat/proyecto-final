@@ -1,5 +1,9 @@
-body{
-	background-image: url("oficina.jpg");
+
+
+header{
+    background-image: url("oficina.jpg");
+    height: 750px;
+    text-align: center;
 }
 
 .row{
