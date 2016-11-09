@@ -2,10 +2,13 @@
 
 header{
     background-image: url("oficina.jpg");
-    height: 750px;
+    height: 100%;
     text-align: center;
 }
+.nav.nav-pills{
+	background-color: black;
 
+}
 .row{
 	background-color: black;
 }
