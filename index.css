@@ -1,3 +1,44 @@
 body{
 	background-image: url("oficina.jpg");
 }
+
+.row{
+	background-color: black;
+}
+
+.container{
+
+	height: 100%;
+	width: 100%;
+
+}
+
+h3{
+	color:white;
+	font-family: Helvetica;
+	size: 20px;
+	flex-left;
+}
+
+#menu{
+	color: white;
+	height: 60px;
+	padding-top: 10px;
+}
+
+
+#menu li a {
+	color: white;
+}
+#menu li a: hover {
+	color: red;
+}
+#texto{
+	background-color: none;
+	color: white;
+	font-family: helvetica;
+	font-size: 30px;
+
+	padding-top: 100px;
+}
+
